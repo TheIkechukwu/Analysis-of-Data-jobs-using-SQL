@@ -84,9 +84,8 @@ Skills that are both **highly sought-after** and **well-paid**:
 ---
 
 ## 🛠️ Tech Stack
-- **SQL**: Data extraction and analysis  
-- **Python (Pandas, Matplotlib)**: Visualization & data processing  
-- **PostgreSQL / MySQL**: SQL backend for job postings data  
+- **PostgreSQL**: Data extraction and analysis  
+- **Python (Pandas, Matplotlib)**: Visualization  
 
 ---
 
